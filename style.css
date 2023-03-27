@@ -1,0 +1,30 @@
+body { 
+    background-color: gray;
+}
+ 
+ 
+.display { 
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    font-size: 30px;
+   
+
+}
+
+.buttons{  
+    position: relative;
+    margin-left: 510px;
+    margin-right: 0px;
+}
+
+button { 
+    font-size: 20px;
+    padding: 10px 20px;
+    
+}
+
+span { 
+    color: blue;
+}
+
